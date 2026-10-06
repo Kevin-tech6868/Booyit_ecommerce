@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "abc123",
+    "createdAt": "2026-09-25T07:03:22.680Z"
+  },
+  {
+    "name": "kevin",
+    "email": "kevin@gmail.com",
+    "password": "Kevin@123",
+    "createdAt": "2026-09-25T07:09:02.072Z"
+  },
+  {
+    "name": "Sharmi",
+    "email": "sharmijoesshofia@gmail.com",
+    "password": "Sharmi@123",
+    "createdAt": "2026-09-25T08:32:06.853Z"
+  },
+  {
+    "name": "Prakash IG",
+    "email": "igprakash@gmail.com",
+    "password": "Igprakash@123",
+    "createdAt": "2026-09-25T14:27:39.018Z"
+  }
+]
